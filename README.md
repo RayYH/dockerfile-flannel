@@ -1,3 +1,3 @@
 # flannel
 
-同步 flannel 仓库
+mirror from `quay.io/coreos/flannel:v0.12.0-amd64`.
